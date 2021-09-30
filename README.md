@@ -1,6 +1,6 @@
 ## Multi-number-recognition-street-view
 
-[paper link](https://arxiv.org/pdf/1312.6082.pdf)
+[paper link](https://arxiv.org/pdf/1312.6082.pdf) | [report link](https://drive.google.com/file/d/1I_2dGM_COauLAYDpyo82F_RSw5ewm1QG/view?usp=sharing)
 
 Final notebook: `"SVHN_Classifier Random Cropping Latest.ipynb"`
 
